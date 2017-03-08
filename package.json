@@ -1,0 +1,19 @@
+{
+  "name": "egret-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/egret-crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egret-labs/egret-crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egret-labs/egret-crypto/issues"
+  },
+  "homepage": "https://github.com/egret-labs/egret-crypto"
+}
